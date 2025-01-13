@@ -9,3 +9,8 @@ num2
 num3<-as.numeric(TRUE)
 num3
 
+num4<- as.numeric("hello")
+num4
+
+num5<-as.numeric("12345")
+num5
