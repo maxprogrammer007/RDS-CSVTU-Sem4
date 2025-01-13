@@ -9,3 +9,8 @@ integer <- 10L ## need to provide L in suffix
 complex = 5 + 2i 
 
 ## logical = TRUE , FALSE
+
+character = 'a'
+character_2 = " hello "
+# Both  single and double quotes are available to use 
+
