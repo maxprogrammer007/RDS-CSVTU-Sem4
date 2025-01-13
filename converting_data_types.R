@@ -14,3 +14,25 @@ num4
 
 num5<-as.numeric("12345")
 num5
+
+int1<- as.integer(52.544)
+int1
+class(int1)
+
+int2 <- as.integer(45-56i)
+int2
+typeof(int2)
+class(int2)
+
+int3<as.integer(TRUE)
+int3
+
+com1<-as.complex(56)
+com1
+
+com2<- as.complex(45L)
+com2
+
+com3<- as.complex(TRUE)
+com3
+
