@@ -39,4 +39,14 @@ print(a==b) #
 print(a<=b) #
 print(a>=b) 
 print(a!=b) 
- 
+
+
+# Logical operators - & | ! && || 
+
+d<-c(3.5,2,TRUE,2+5i)
+e<-c(2.4,4,TRUE,3-5i)
+
+print(a&b)
+print(a|b)
+print(a&&b)
+print(a||b)
