@@ -13,4 +13,4 @@ var2 = 20
 
 print(var1 + var2+var3)
 
-cat(var1," ",var2)
+cat(var1," ",var2,"\n", var3)
