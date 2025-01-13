@@ -36,3 +36,11 @@ com2
 com3<- as.complex(TRUE)
 com3
 
+logi <- as.logical(45.566)
+logi
+
+char1<-as.character(45.66)
+char1
+
+char2<-as.character(56+67i)
+char2
