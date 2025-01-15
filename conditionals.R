@@ -25,3 +25,14 @@ if("Ram"%in%y)
 }else{
   print("not found")
 }
+
+marks<-75
+if(marks>75){
+  print("first class")
+
+}else if(marks>65){
+  print("second class")
+  
+}else{
+  print("not so good !!")
+}
